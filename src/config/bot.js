@@ -59,9 +59,9 @@ export const botConfig = {
   applications: {
     // Default questions shown when someone fills out an application.
     defaultQuestions: [
-      { question: "What is your name?", required: true },
-      { question: "How old are you?", required: true },
-      { question: "Why do you want to join?", required: true },
+      { question: "Are You A Good Player?", required: true },
+      { question: "Have You Ever Been In A Clan?", required: true },
+      { question: "Do You Think You Can Get In?", required: true },
     ],
 
     // Embed colors by application status.
@@ -163,11 +163,11 @@ export const botConfig = {
       // Plural display name.
       namePlural: "CRCDbucks",
       // Currency symbol shown in balances.
-      symbol: "$",
+      symbol: "•~•",
     },
 
     // Starting balance for new users.
-    startingBalance: 0,
+    startingBalance: 50,
 
     // Maximum bank amount before upgrades (if upgrades are used).
     baseBankCapacity: 100000,
