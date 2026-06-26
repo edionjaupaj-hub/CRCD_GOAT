@@ -139,7 +139,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "CRCD_GOAT",
       // Footer icon URL (null = no icon).
       icon: null,
     },
@@ -159,9 +159,9 @@ export const botConfig = {
   economy: {
     currency: {
       // Currency display name.
-      name: "coins",
+      name: "CRCDbuck",
       // Plural display name.
-      namePlural: "coins",
+      namePlural: "CRCDbucks",
       // Currency symbol shown in balances.
       symbol: "$",
     },
